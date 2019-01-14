@@ -1,9 +1,6 @@
 # Muestreo y precisiones estadísticas con la ENOE
 #### El Colegio de México
 ##### Julio César Martínez Sánchez 
-
-
-___
 <br>
 
 ### **Objetivo**  
