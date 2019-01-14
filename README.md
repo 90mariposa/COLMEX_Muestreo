@@ -30,11 +30,7 @@ El objetivo de este taller es hacer una revisión exhaustiva de los principales 
 
 **[Comandos en Stata](https://rpubs.com/jcms2665/SvyStata)**
 
-<br>
-
 **[Unir los paneles](https://rpubs.com/jcms2665/enoedo)**
-
-<br>
 
 **[Bootstrap](https://jcms2665.shinyapps.io/BootstrapS/)**
 
