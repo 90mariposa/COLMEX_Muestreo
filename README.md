@@ -1,5 +1,5 @@
-# COLMEX Muestreo y aspectos teórico-metodológicos de la Encuesta Nacional de Ocupación y Empleo, ENOE
-### El Colegio de México
+# Muestreo y precisiones estadísticas con la ENOE
+#### El Colegio de México
 ##### Julio César Martínez Sánchez 
 
 
