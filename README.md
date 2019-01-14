@@ -1,7 +1,7 @@
-## Muestreo y precisiones estadísticas con la ENOE
-#### El Colegio de México
-##### Julio César Martínez Sánchez 
+# Muestreo y precisiones estadísticas con la ENOE 
 
+
+<br>
 <br>
 
 ## **Objetivo**  
@@ -28,20 +28,16 @@ El objetivo de este taller es hacer una revisión exhaustiva de los principales 
 
 ## **Ligas para el taller** 
 
-
-**[COMANDOS EN STATA](https://rpubs.com/jcms2665/SvyStata)**
-
-<br>
-<br>
-
-**[UNIR LOS PÁNELES](https://rpubs.com/jcms2665/enoedo)**
+**[Comandos en Stata](https://rpubs.com/jcms2665/SvyStata)**
 
 <br>
+
+**[Unir los paneles](https://rpubs.com/jcms2665/enoedo)**
+
 <br>
 
 **[Bootstrap](https://jcms2665.shinyapps.io/BootstrapS/)**
 
-<br>
 <br>
 
 
