@@ -28,9 +28,11 @@ El objetivo de este taller es hacer una revisión exhaustiva de los principales 
 
 ## **Ligas para el taller** 
 
-**[Comandos en Stata](https://rpubs.com/jcms2665/SvyStata)**
+**[Stata](https://rpubs.com/jcms2665/SvyStata)**
 
-**[Unir los paneles](https://rpubs.com/jcms2665/enoedo)**
+**[R](https://rpubs.com/jcms2665/CS)**
+
+**[Unir paneles](https://rpubs.com/jcms2665/enoedo)**
 
 **[Bootstrap](https://jcms2665.shinyapps.io/BootstrapS/)**
 
