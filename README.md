@@ -1,16 +1,17 @@
-# Muestreo y precisiones estadísticas con la ENOE
+## Muestreo y precisiones estadísticas con la ENOE
 #### El Colegio de México
 ##### Julio César Martínez Sánchez 
+
 <br>
 
-### **Objetivo**  
+## **Objetivo**  
 
 El objetivo de este taller es hacer una revisión exhaustiva de los principales aspectos teóricos y metodológicos de la Encuesta Nacional de Ocupación y Empleo, ENOE, con el fin de conocer sus limitaciones y sus potencialidades, así como la forma adecuada de utilizar los datos, para evitar problemas de estimación estadística en la elaboración de indicadores que se obtienen para los trabajos de investigación en Ciencias Sociales, pero en especial en torno a problemáticas ligadas con el trabajo y los mercados laborales en México.
 
 <br>
 <br>
 
-### **Contenido** 
+## **Contenido** 
 
 
 * Diseño muestral de la ENOE (30 min).
@@ -25,15 +26,20 @@ El objetivo de este taller es hacer una revisión exhaustiva de los principales 
 <br>
 <br>
 
-#### **[COMANDOS EN STATA](https://rpubs.com/jcms2665/SvyStata)**
+## **Ligas para el taller** 
+
+
+**[COMANDOS EN STATA](https://rpubs.com/jcms2665/SvyStata)**
 
 <br>
 <br>
-#### **[UNIR LOS PÁNELES](https://rpubs.com/jcms2665/enoedo)**
+
+**[UNIR LOS PÁNELES](https://rpubs.com/jcms2665/enoedo)**
 
 <br>
 <br>
-#### **[Bootstrap](https://jcms2665.shinyapps.io/BootstrapS/)**
+
+**[Bootstrap](https://jcms2665.shinyapps.io/BootstrapS/)**
 
 <br>
 <br>
